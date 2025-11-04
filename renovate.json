@@ -1,0 +1,3 @@
+{
+  "extends": [":prConcurrentLimitNone", ":prHourlyLimitNone"]
+}
